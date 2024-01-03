@@ -1,0 +1,278 @@
+[
+    {
+        "total_games": 10,
+        "bot_win_rate": 60.0,
+        "player_win_rate": 40.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 10,
+        "bot_win_rate": 30.0,
+        "player_win_rate": 70.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 10,
+        "bot_win_rate": 30.0,
+        "player_win_rate": 70.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 40.0,
+        "player_win_rate": 60.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 40.0,
+        "player_win_rate": 60.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 60.0,
+        "player_win_rate": 40.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 60.0,
+        "player_win_rate": 40.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 60.0,
+        "player_win_rate": 40.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 60.0,
+        "player_win_rate": 40.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 1,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    },
+    {
+        "total_games": 5,
+        "bot_win_rate": 100.0,
+        "player_win_rate": 0.0,
+        "tie_rate": 0.0
+    }
+]
