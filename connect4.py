@@ -119,14 +119,14 @@ def evaluate_window(window, piece):
         #score += 50
     # connecting 3 
     elif window.count(piece) == 3 and window.count(EMPTY) == 1:
-        score += 10
+        score += 5
     # connecting 2 
     elif window.count(piece) == 2 and window.count(EMPTY) == 2:
-        score += 5
+        score += 2
 
     # blocking an opponent's winning move 
     if window.count(opp_piece) == 3 and window.count(EMPTY) == 1:
-        score -= 5
+        score -= 4
 
     return score
 
@@ -206,21 +206,23 @@ def minimax(board, depth, alpha, beta, maximisingPlayer):
                 break
         return column, value
 
-def play_bot_vs_bot():
+def play_manjaro_vs_bot():
     board = create_board()
     print_board(board)
     
     game_over = False
-    turn = random.randint(0, 1) 
+    turn = random.randint(0, 1)  
 
     while not game_over:
         if turn == 0:
-            col, minimax_score = minimax(board, 4, -math.inf, math.inf, True)
+            depth = random.randint(3, 5)  
+            col, minimax_score = minimax(board, depth, -math.inf, math.inf, True)
             if is_valid(board, col):
                 row = get_next_open_row(board, col)
                 drop_piece(board, row, col, BOT_PIECE)
         else:
-            col, minimax_score = minimax(board, 4, -math.inf, math.inf, False)
+            depth = random.randint(3, 5)  
+            col, minimax_score = minimax(board, depth, -math.inf, math.inf, False)
             if is_valid(board, col):
                 row = get_next_open_row(board, col)
                 drop_piece(board, row, col, PLAYER_PIECE)
@@ -475,7 +477,7 @@ def main():
             if sub_choice == 1:
                 play_user_vs_bot()
             else:
-                play_bot_vs_bot()
+                play_manjaro_vs_bot()
 
         elif choice == 2:
             done = threading.Event()
